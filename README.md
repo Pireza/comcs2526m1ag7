@@ -1,2 +1,3 @@
-# comcs2526m1ag7
-[Lab04.ex06] COMCS Challenge
+# Supported User commands
+on - Turns the LED ON
+off - Turns the LED OFF
